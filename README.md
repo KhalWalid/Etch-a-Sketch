@@ -11,4 +11,4 @@ Project of the TOP curriculum.
 
 ## Live Demo
 
-[Live Demo](https://khalwalid.github.io/Etch-a-Sketch/) here
+[Live Demo](https://khalwalid.github.io/Etch-a-Sketch/) 👈
